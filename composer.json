@@ -1,5 +1,5 @@
 {
-    "name": "comsma_remote-image-url",
+    "name": "comsma\remote-image-url",
     "version": "0.0.1",
     "type": "magento2-module",
     "autoload": {
