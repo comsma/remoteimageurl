@@ -2,6 +2,14 @@
     "name": "comsma/remoteimageurl",
     "description": "Allows Magento to use Remote Images via remote_image_url",
     "version": "1.0.2",
+    "require": {
+        "magento/framework"     :     ">=100.1.0 <101",
+        "magento/module-catalog":     ">=101.0.0 <104"
+    },
+    "license": [
+        "OSL-3.0",
+        "AFL-3.0"
+    ],
     "type": "magento2-module",
     "autoload": {
         "psr-4": {
