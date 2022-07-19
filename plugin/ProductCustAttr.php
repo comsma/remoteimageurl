@@ -1,5 +1,5 @@
 <?php
-namespace comsma\remoteimageurl\Plugin;
+namespace comsma\remoteimageurl\plugin\;
 
 use Magento\Catalog\Api\Data\ProductInterface;
 use Magento\Catalog\Model\Product as ProductModel;
