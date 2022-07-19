@@ -1,11 +1,11 @@
 {
-    "name": "comsma/remote-image-url",
+    "name": "comsma/remoteimageurl",
     "description": "Allows Magento to use Remote Images via remote_image_url",
     "version": "1.0.2",
     "type": "magento2-module",
     "autoload": {
         "psr-4": {
-            "COMSMA\\RemtoteImageUrl\\": ""
+            "comsma\\remtoteimageurl\\": ""
         },
         "files": [
             "registration.php"
