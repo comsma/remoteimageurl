@@ -1,6 +1,5 @@
 <?xml version="1.0"?>
-<config xmlns:xsi="
-" xsi:noNamespaceSchemaLocation="urn:magento:framework:Module/etc/module.xsd">
+<config xmlns:xsi="" xsi:noNamespaceSchemaLocation="urn:magento:framework:Module/etc/module.xsd">
     <module name="COMSMA_RemoteImageURL" setup_version="0.0.1"> 
         <sequence>
             <module name="Magento_Catalog"/> 
